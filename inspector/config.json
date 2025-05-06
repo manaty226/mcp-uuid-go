@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "uuid-tool": {
+            "command": "../build/uuidtool",
+            "args": [
+                "version"
+            ],
+            "env": {}
+        }
+    }
+}
